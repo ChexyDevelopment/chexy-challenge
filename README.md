@@ -55,6 +55,6 @@ com/docs/emulator-suite) should be running at
 ### The Challenge
 ***Issue**: After logging in, the application seems to be stuck on the loading screen indefinitely. Refreshing the page unfortunately brings you back to the login screen again.
 
-**Your Task**: Diagnose and fix the issue preventing successful login and proper session handling. The focus is on understanding your approach to solving this problem and your debugging process.
+**Your Task**: Diagnose and fix the issue preventing successful login and proper session handling. Ensuring an optimum experience for the user, for their entire sign in journey. The focus is on understanding your approach to solving this problem and your debugging process.
 
 📝 **Note**: This challenge is designed to be as conversational as possible. If you encounter any difficulties or have questions, please don't hesitate to ask me for help. We value your thought process and problem-solving skills.
